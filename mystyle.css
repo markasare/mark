@@ -5,7 +5,7 @@
   color: #fff;
   display: flex;
   align-items: center;
-  margin-top: 27px;
+  margin-top: 28px;
   justify-content: center;
 }
 *{
@@ -18,6 +18,7 @@
 .newcontainer h1{
   font-size: 80px;
   font-weight: 600px;
+  font-family: 'Pacifico', cursive;
 }
 .new{
   width: 100%;
@@ -37,5 +38,6 @@
   font-family: 'Pacifico', cursive;
 }
 span{
-  color: yellow;
+  color: #dc6baf;
+  font-family: 'Pacifico', cursive;
 }
