@@ -1,0 +1,39 @@
+.newcontainer{
+  width: 100%;
+  height:20vh;
+  background: black;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  }
+
+.newcontainer h1{
+  font-size: 80px;
+  font-weight: 600px;
+}
+.new{
+  width: 100%;
+  height:30vh;
+  background: black;
+  color: #dc6baf;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.new h1{
+  font-size: 80px;
+  font-weight: 600px;
+}
+#heading1{
+  font-family: 'Pacifico', cursive;
+}
+span{
+  color: yellow;
+}
