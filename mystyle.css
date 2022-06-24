@@ -14,7 +14,9 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   }
-
+.newcontainer{
+  height: 40vh;
+}
 .newcontainer h1{
   font-size: 80px;
   font-weight: 600px;
